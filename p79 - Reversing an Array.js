@@ -1,4 +1,4 @@
-//Exercise page 79 -- REVERSING AN
+//Exercise page 79 -- REVERSING AN ARRAY
 
 //My Solution
 
